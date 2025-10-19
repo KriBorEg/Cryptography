@@ -25,3 +25,5 @@ I have divided the code into four sections:
   4. main code
        - Where the cryptography tool is run from.
     
+I have used pointers to make it more readable, when using the different functions. 
+
