@@ -17,13 +17,11 @@ The tools used in the code are as follows:
 
 I have divided the code into four sections:
   1. caesar code
-       - Where I write the function of the caesar encryption/decryption
+       - Where I write the function of the caesar encryption/decryption using pointers
   2. vigenere code
-       - Where I write the function of the vigenere encryption/decryption
+       - Where I write the function of the vigenere encryption/decryption using pointers
   3. readlines code
-       - Where I write the function of helper, which make the code able to read the userinput without the newline \n
+       - Where I write the function of helper using pointers, which make the code able to read the userinput without the newline \n
   4. main code
        - Where the cryptography tool is run from.
-    
-I have used pointers to make it more readable, when using the different functions. 
 
